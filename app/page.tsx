@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 import {
   Activity, ArrowDownToLine, ArrowUpRight, Bell, CheckCircle2, ChevronDown,
   CircleHelp, ClipboardList, CreditCard, FileText, Film, FolderOpen, LayoutDashboard,
-  Menu, MessageCircle, Plus, Search, Settings, ShieldCheck, Stethoscope, Users, Wallet,
+  Menu, Plus, Search, Settings, ShieldCheck, Users, Wallet,
   X, Play, Clock3
 } from "lucide-react";
 
